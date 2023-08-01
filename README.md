@@ -1,5 +1,5 @@
 # Live Site: 
-[Live Site](https://vengleapchan.netlify.app/contacts)
+[Live Site](vengleapchan.netlify.app)
 
 # Getting Started with Create React App
 
